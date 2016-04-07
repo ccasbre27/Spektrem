@@ -27,19 +27,22 @@
         android:id="@+id/btnStartTalk"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button_talk"/>
+        android:text="@string/button_talk"
+        android:onClick="onClick"/>
 
     <Button
         android:id="@+id/btnShareText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button_share"/>
+        android:text="@string/button_share"
+        android:onClick="onClick"/>
 
     <Button
         android:id="@+id/btnReset"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button_reset"/>
+        android:text="@string/button_reset"
+        android:onClick="onClick"/>
 
 
 </LinearLayout>
