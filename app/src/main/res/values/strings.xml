@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Spektrem</string>
+
+    <string name="enter_message">Ingrese el mensaje</string>
+
+    <string name="button_talk">Escuchar texto</string>
+    <string name="button_share">Compartir texto en...</string>
+    <string name="button_reset">Restablecer contenido</string>
 </resources>
